@@ -1,0 +1,166 @@
+
+
+#content {
+    float:left;
+    width:400px;
+    margin-left: 160px;
+    margin-top: 80px;
+}
+
+#content1 {
+	margin-left: 120px;
+	margin-top: 80px;
+    float:left;
+    width:400px;
+}
+
+
+.image1 {
+	border-radius:50% 50% 50% 50%;  
+	width:370px;
+	height:370px;
+	margin-left: 55%;
+	margin-top: 10%;
+	position: absolute;
+
+}
+
+.title { 
+  font-family: 'Avenir',sans-serif;
+  font-weight: lighter;
+  margin-left: 18%;
+  margin-top: 18%;
+  font-size: 470%;
+  position: absolute;
+}
+
+.letter {
+ 	font-family: 'Avenir',sans-serif;
+    font-weight: normal;
+   	margin-left: 15%;
+    margin-top: 25%;
+    font-size: 470%;
+    position: absolute;
+
+}
+
+.redletter {
+	font-family: 'Avenir',sans-serif;
+    font-weight: normal;
+   	margin-left: 20%;
+    margin-top: 25%;
+    font-size: 470%;
+    position: absolute;
+}
+
+.letter2 {
+ 	font-family: 'Avenir',sans-serif;
+    font-weight: normal;
+   	margin-left: 24%;
+    margin-top: 25%;
+    font-size: 470%;
+    position: absolute;
+}
+
+
+.dev {
+	margin-top: -10px;
+	margin-left: 130px;
+	width:70px;
+	height:70px;
+
+}
+a {
+  color: black;
+  text-decoration: none;
+
+}
+a:hover {
+  color: #5F9EA0;
+}
+
+p:hover, h1:hover, h5:hover {
+   color: black;
+}
+
+h2:hover, {
+   color: #B22222;
+}
+
+h4, h8 {
+    color: red;
+}
+
+h7 {
+    color: black;
+    font-size: 120%;
+    font-family: 'Avenir',sans-serif;
+}
+h1 {
+	color: red;
+	font-family: 'Avenir',sans-serif;
+    font-weight: normal;
+   	margin-left: 24%;
+    margin-top: 10%;
+    font-size: 100%;
+}
+h6 {
+	font-family: 'Avenir',sans-serif;
+	font-size: 70%;
+}
+
+h5 {
+	font-family: 'Avenir',sans-serif;
+    font-weight: normal;
+    font-size: 100%;
+    
+    color: #808080;
+}
+
+h2 {
+	color: red;
+	font-family: 'Avenir',sans-serif;
+    font-weight: normal;
+   	margin-left: 1%;
+    margin-top: 10%;
+    font-size: 150%;
+}
+
+
+p {
+
+	font-family: 'Avenir',sans-serif;
+    font-weight: normal;
+   	margin-left: 24%;
+    margin-top: 3%;
+    font-size: 100%;
+}
+
+.contact {
+	font-family: 'Avenir',sans-serif;
+    font-weight: normal;
+   	margin-left: 15%;
+    margin-top: 33%;
+    font-size: 100%;
+    position: absolute;
+}
+.passion{
+	margin-top: 20px;
+}
+
+.reddot {
+	  width: 20px;
+	  height:20px;
+	  margin-left: 47%;
+	  margin-top: 28.5%
+}
+
+.puzzle {
+	 margin-top: 40%;
+	 margin-left: 13%;
+	 width: 5%;
+	 height: 5%;
+}
+
+
+
